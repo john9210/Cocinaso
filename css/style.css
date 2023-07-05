@@ -484,3 +484,18 @@ color: #777;
 #footer a:hover {
 	color: #a7c44c;
 }
+
+/* Estilos para el botón de WhatsApp */
+.whatsapp-button {
+position: fixed;
+bottom: 20px;
+right: 20px;
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+padding: 20px 15px;
+border-radius: 50%;
+border: none;
+cursor: pointer;
+z-index: 9999;
+}
