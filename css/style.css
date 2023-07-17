@@ -499,3 +499,11 @@ border: none;
 cursor: pointer;
 z-index: 9999;
 }
+.imagen {
+	transition: filter 0.3s; /* Agrega una transición suave */
+  }
+  
+  .imagen:hover {
+	filter: grayscale(200%); /* Cambia el filtro de la imagen al pasar el cursor sobre ella */
+  }
+  
