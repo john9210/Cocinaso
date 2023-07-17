@@ -507,3 +507,9 @@ z-index: 9999;
 	filter: grayscale(200%); /* Cambia el filtro de la imagen al pasar el cursor sobre ella */
   }
   
+.aligtext{
+	text-align: justify;
+	color: #222;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
